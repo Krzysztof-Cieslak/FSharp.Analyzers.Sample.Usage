@@ -1,0 +1,5 @@
+// [ Analyzers Group ]
+group Analyzers
+    source https://api.nuget.org/v3/index.json
+
+    nuget FSharp.Analyzers.Sample 1.0.1

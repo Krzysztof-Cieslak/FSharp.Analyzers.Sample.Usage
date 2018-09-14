@@ -1,0 +1,6 @@
+.ionide
+bin
+obj
+packages
+paket-files
+.DS_Store
